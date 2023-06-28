@@ -1,6 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ACL":
+  url: https://www.aclweb.org/anthology/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EMNLP":
+  url: https://www.aclweb.org/anthology/
+
+"NAACL":
+  url: https://www.aclweb.org/anthology/
