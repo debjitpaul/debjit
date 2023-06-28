@@ -3,7 +3,6 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: "Selected Repositories"
-repositories.
 nav: true
 nav_order: 3
 ---
