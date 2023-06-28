@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://debjitpaul.github.iodebjit/sitemap.xml
+Sitemap: https://debjitpaul.github.io/sitemap.xml
