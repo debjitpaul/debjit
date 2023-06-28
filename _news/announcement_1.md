@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check out our new paper <a href="https://debjitpaul.github.io/refiner/">REFINER: Reasoning Feedback on Intermediate Representations
+Check out our new preprint paper <a href="https://debjitpaul.github.io/refiner/">REFINER: Reasoning Feedback on Intermediate Representations
