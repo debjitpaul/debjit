@@ -6,7 +6,7 @@ subtitle: <a href='#'>Postdoc at EPFL</a>
 
 profile:
   align: right
-  image: _DSC0818.jpg
+  image: DSC0818.jpg
   image_circular: false # crops the image to make it circular
   
 
