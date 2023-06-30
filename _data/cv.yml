@@ -13,7 +13,7 @@
       institution: Heidelberg University, Germany
       year: 2018-2022
       description:
-        - Description 1.
+        - Supervised by Prof. Anette Frank
         - Description 2.
         - title: Description 3.
           contents:
@@ -23,8 +23,7 @@
       institution: Saarland University, Germany
       year: 2014-2017
       description:
-        - Description 1.
-        - Description 2.
+        - Handling Noisy Labels for Robustly Learning from Self-Training Data for Low-Resource Sequence Labeling
 
 - title: Experience
   type: time_table
@@ -33,8 +32,7 @@
       institution: EPFL
       year: 2022 - Currently
       description:
-        - Description 1.
-        - Description 2.
+        - Funded by Tailor EU Project 
         - title: Description 3.
           contents:
             - Sub-description 1.
