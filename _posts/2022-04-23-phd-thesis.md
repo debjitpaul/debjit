@@ -4,7 +4,7 @@ title: Social Commonsense Reasoning with Structured Knowledge in Text
 date: 2022-04-23 15:53:00-0400
 description: Social Commonsense Reasoning with Structured Knowledge in Text
 categories: PhD_Thesis blockquotes
-giscus_comments: true
+giscus_comments: false
 related_posts: true
 ---
 
