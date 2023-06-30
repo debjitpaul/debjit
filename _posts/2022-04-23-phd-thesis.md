@@ -3,7 +3,7 @@ layout: post
 title: REFINER 
 date: 2022-04-23 15:53:00-0400
 description: Social Commonsense Reasoning with Structured Knowledge in Text
-categories: pre-print blockquotes
+categories: PhD Thesis blockquotes
 giscus_comments: true
 related_posts: true
 ---
