@@ -1,6 +1,6 @@
 ---
 layout: post
-title: REFINER 
+title: REFINER: Reasoning Feedback on Intermediate Representations
 date: 2023-04-04 15:53:00-0400
 description: Reasoning Feedback on Intermediate Representations
 categories: pre-print blockquotes
