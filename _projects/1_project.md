@@ -2,7 +2,7 @@
 layout: page
 title: Argumentative Relation Classification with Background Knowledge
 description: a project with a background image
-pdf: assets/pdf/COMMA_67_slides.pdf
+pdf: assets/img/comma_paper.png
 importance: 1
 category: work
 ---
