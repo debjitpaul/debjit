@@ -13,7 +13,7 @@ A common conception is that the understanding of relations that hold between arg
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/comma_paper.png
     ---
 
 <div class="row">
