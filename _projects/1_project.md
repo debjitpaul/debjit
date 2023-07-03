@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Argumentative Relation Classification with Background Knowledge
+title: Argument Relation Classification 
 description: a project with a background image
 img: assets/img/comma_paper.png
 importance: 1
