@@ -27,10 +27,6 @@ A common conception is that the understanding of relations that hold between arg
         {% include figure.html path="assets/img/comma_paper.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    <a href='' target='_blank'>
-            <img class="paper-img" src="assets/img/comma_paper.png" height="200" alt="Paper Screenshot" />
-    </a>
-</div>
+
 ```
 {% endraw %}
