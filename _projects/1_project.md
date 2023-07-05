@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  COMMA 2020
+title:  Argument Relation Classification
 slides: Slide
-description: Argument Relation Classification presented at 8th International Conference on Computational Models of Argument 
+description:  8th International Conference on Computational Models of Argument 
 img: assets/img/comma_paper.png
 slide_pdf: COMMA_67_slides.pdf
 importance: 1
