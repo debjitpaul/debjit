@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Argument Relation Classification 
+slides: Slide
 description: 8th International Conference on Computational Models of Argument 
 img: assets/img/comma_paper.png
+slide_pdf: assets/pdf/COMMA_67_slides.pdf
 importance: 1
 category: work
 ---
@@ -12,8 +14,7 @@ A common conception is that the understanding of relations that hold between arg
 
 <div class="post">
   <header class="post-header">
-        <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
-            <p class="post-description">{{ slides }}</p>
+        <h1 class="post-title">{{ page.slides }} {% if page.slide_pdf %}<a href="{{ slide_cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
   </header>
 </div>
-[Slides](https://github.com/debjitpaul/debjitpaul.github.io/blob/master/assets/pdf/COMMA_67_slides.pdf) 
+
