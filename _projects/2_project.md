@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NAACL 2019
+title:  Multi-Hop Knowledge Paths 
 slides: Slide
-description: Ranking and Selecting Multi-Hop Knowledge Paths 
+description: Presented in NAACL 2019
 img: assets/img/naacl_2019.png
 slide_pdf: naacl_2019.pdf
 importance: 1
