@@ -14,8 +14,7 @@ A common conception is that the understanding of relations that hold between arg
     title: Slides
     pdf: /assets/pdf/
  ---
-```
-   
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,4 +27,4 @@ A common conception is that the understanding of relations that hold between arg
         {% include figure.html path="assets/img/comma_paper.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
+
