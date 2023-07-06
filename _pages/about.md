@@ -25,9 +25,9 @@ Hi there! I'm a Postdoctoral Researcher working with
                                 <a href="https://dlab.epfl.ch/" target="_blank">dLab</a>, and 
                                 <a href="https://nlp.epfl.ch/" target="_blank">NLP</a> --> at
                           <a href="https://www.epfl.ch/" target="_blank">EPFL</a>. Before EPFL, I completed my Ph.D. under the supervision of 
-                          <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank"> Anette Frank </a> in the Department of Computational Linguistics at Heidelberg University and also a part of <a href="https://www.aiphes.tu-darmstadt.de/de/aiphes/" target="_blank">Research Training Group AIPHES</a>. My research focuses on developing systems that can reason over text. 
+                          <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank"> Anette Frank </a> in the Department of Computational Linguistics at Heidelberg University and also a part of <a href="https://www.aiphes.tu-darmstadt.de/de/aiphes/" target="_blank">Research Training Group AIPHES</a>.
 
-                          
+The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. My long-term research objective is to imbue machines with human-like communication abilities, as well as commonsense knowledge and reasoning capabilities. Currently, my research focuses on (controllable) text generation, (social) commonsense reasoning, and unsupervised learning.
 
                           
 
