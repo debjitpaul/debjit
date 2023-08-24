@@ -30,18 +30,18 @@
       description:
         - Continual Learning for Intent Classification Task
         - Project Details
-          contents:
-            - Knowledge Distillation 
-            - Elastic Weight Consolidation
+        items:
+          - Knowledge Distillation 
+          - Elastic Weight Consolidation
     - title: Postdoctoral Researcher
       institution: EPFL
       year: 2022 - Currently
       description:
         - Funded by Tailor EU Project 
         - Project Details
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        items:
+          - Sub-description 1.
+          - Sub-description 2.
 
 #- title: Open Source Projects
 #  type: time_table
