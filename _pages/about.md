@@ -31,8 +31,8 @@ Hi there! I'm a Postdoctoral Researcher working with
 
 The research topics that I focus on are as follows: <br />
 1. <b> Neuro-Symbolic Reasoning </b>: I'm interested in improving the ability of existing AI systems to think logically by developing techniques for integrating structured knowledge into AI systems.  <br />
-3. <b> Interactive methods </b>: I'm interested in building interactive methods that make human interaction with AI more intuitive. <br />
-4. <b> Commonsense Reasoning </b>: I'm interested in constructing data and models that leverage commonsense knowledge derived from language and graphical representations to facilitate commonsense reasoning and its practical applications. <br />
+2. <b> Interactive methods </b>: I'm interested in building interactive methods that make human interaction with AI more intuitive. <br />
+3. <b> Commonsense Reasoning </b>: I'm interested in constructing data and models that leverage commonsense knowledge derived from language and graphical representations to facilitate commonsense reasoning and its practical applications. <br />
 
 Finally, my long-term research objective is to imbue machines with human-like communication abilities and commonsense knowledge and reasoning capabilities. Build AI systems that can do complex interplay between language, knowledge representation, and cognitive reasoning processes.
 
