@@ -27,7 +27,7 @@ Hi there! I'm a Postdoctoral Researcher working with
                           <a href="https://www.epfl.ch/" target="_blank">EPFL</a>. Before EPFL, I completed my Ph.D. under the supervision of 
                           <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank"> Anette Frank </a> in the Department of Computational Linguistics at Heidelberg University and also a part of <a href="https://www.aiphes.tu-darmstadt.de/de/aiphes/" target="_blank">Research Training Group AIPHES</a>. <br />
 
-<h4>Research interests</h4> The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. Currently, my research focuses on (controllable) text generation, (social) commonsense reasoning, and unsupervised learning.
+<h4>Research interests</h4> The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. Currently, my research focuses on (controllable) text generation, commonsense reasoning, and unsupervised learning.
 
 The research topics that I focus on are as follows: <br />
 1. <b> Neuro-Symbolic Reasoning </b>: I'm interested in improving the ability of existing AI systems to think logically by developing techniques for integrating structured knowledge into AI systems.  <br />
