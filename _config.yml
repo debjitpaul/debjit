@@ -167,6 +167,11 @@ disqus_shortname: debjit-paul # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
+  interest:
+    defaults: 
+        layout: post
+    output: true 
+    permalink: /news/:path/
   news:
     defaults:
       layout: post
