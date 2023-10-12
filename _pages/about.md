@@ -30,9 +30,9 @@ Hi there! I'm a Postdoctoral Researcher working with
 **Research interests**: The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. Currently, my research focuses on (controllable) text generation, (social) commonsense reasoning, and unsupervised learning.
 
 The research topics that I focus on are as follows : 
-1. Neuro-Symbolic Reasoning: Enhancing the reasoning capabilities of AI systems by building methods that can integrate structured knowledge in NLP systems. 
-2. Interactive methods: Focusing on building interactive methods that make human interaction with AI more intuitive.
-3. Commonsense Reasoning: Building data and models using commonsense knowledge from language and graphs for commonsense reasoning and applications of commonsense reasoning. 
+1. <br /> Neuro-Symbolic Reasoning: Enhancing the reasoning capabilities of AI systems by building methods that can integrate structured knowledge in NLP systems. 
+2. <br /> Interactive methods: Focusing on building interactive methods that make human interaction with AI more intuitive.
+3. <br /> Commonsense Reasoning: Building data and models using commonsense knowledge from language and graphs for commonsense reasoning and applications of commonsense reasoning. 
 
 Finally, my long-term research objective is to imbue machines with human-like communication abilities and commonsense knowledge and reasoning capabilities. Build AI systems that can do complex interplay between language, knowledge representation, and cognitive reasoning processes.
 
