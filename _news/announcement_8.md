@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-REFINER got accepted at <a href="https://2024.eacl.org/">EACL 2024. See you in Malta :airplane:
+REFINER got accepted at <a href="https://2024.eacl.org/">EACL main conference 2024. See you in Malta :airplane:
