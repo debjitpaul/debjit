@@ -15,12 +15,15 @@
       description:
         - Supervised by Prof. Anette Frank
         - Social Commonsense Reasoning with Structured Knowledge in Text
+        - My research has focused on designing computational models capable of reasoning over knowledge.
+        - My research has focused on designing computational models that generate explanations before making the final decisions.
+        - Publications: 8 papers in NLP leading conferences and workshops.  
     - title: Masters
       institution: Saarland University, Germany
       year: 2014-2017
       description:
         - Handling Noisy Labels for Robustly Learning from Self-Training Data for Low-Resource Sequence Labeling
-
+        
 - title: Experience
   type: time_table
   contents:
@@ -33,12 +36,12 @@
     - title: Postdoctoral Researcher
       institution: EPFL
       year: 2022 - Currently
-      description:
-        - Improving the Reasoning capabilities of LLMs
-        - Explainable AI  
+      description:  
         - Funded by Tailor EU Project 
-     
-
+        - Publications: 6 papers in AI & ML leading venues: 4 conferences, 2 under review
+        - Developed methods to enhance the reasoning capabilities of LLMs
+        - Designed new benchmark datasets to evaluate the reasoning capabilities of LLMs
+        - Developed reinforcement learning methods to enhance text generation capabilities of current NLP systems
  #  - Project Details
       #  items:
       #    - Sub-description 1.
