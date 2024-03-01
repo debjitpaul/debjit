@@ -32,6 +32,8 @@
       year: 2021 - 2022
       description:
         - Continual Learning for Intent Classification Task
+        - Designed new real-world continual learning experiment setup for production
+        - Developed methods for class incremental learning, aiming to expand the features for spoken language understanding tasks within a voice assistant framework like Alexa
       
     - title: Postdoctoral Researcher
       institution: EPFL
