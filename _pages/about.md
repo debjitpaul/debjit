@@ -39,7 +39,7 @@ The research topics that I focus on are as follows: <br />
 
 Finally, my long-term research objective is to imbue machines with human-like communication abilities and commonsense knowledge and reasoning capabilities. Build AI systems that can do complex interplay between language, knowledge representation, and cognitive reasoning processes.-->
 
-My overarching research objective is to enhance the <b>reasoning capabilities of NLP systems</b> by advancing their ability to understand the complex interplay between language, knowledge representation, and cognitive reasoning processes. To accomplish this goal, I have focused my investigations in three areas:
+My overarching research objective is to enhance the <b>reasoning capabilities of artificial agents</b> by advancing their ability to understand the complex interplay between language, knowledge representation, and cognitive reasoning processes. To accomplish this goal, I have focused my investigations in three areas:
 
 <ul>
 <li><b>Reasoning with knowledge representations</b> - NLP systems must be grounded by knowledge dynamics to generalize to unseen situations robustly. My research has focused on designing computational models capable of reasoning over knowledge. <br /></li>
