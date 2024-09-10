@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 <font size="4">
 Hi there! I'm a Postdoctoral Researcher working with 
-                          <a href="https://people.epfl.ch/boi.faltings" target="_blank">Boi Faltings</a>, 
-                          <a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a>, and 
-                          <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a> 
+                          <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a>,
+                          <a href="https://people.epfl.ch/boi.faltings" target="_blank">Boi Faltings</a>, and 
+                          <a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a> 
                                 <!--<a href="https://lia.epfl.ch/" target="_blank">LIA lab</a>,  
                                 <a href="https://dlab.epfl.ch/" target="_blank">dLab</a>, and 
                                 <a href="https://nlp.epfl.ch/" target="_blank">NLP</a> --> at
