@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Guest Lecture at <a href="https://edu.epfl.ch/coursebook/en/topics-in-natural-language-processing-CS-612">Topics in Natural Language Processing</a>, EPFL. 
+Guest Lecture in the <a href="https://edu.epfl.ch/coursebook/en/topics-in-natural-language-processing-CS-612">Topics in Natural Language Processing</a> course at EPFL. 
