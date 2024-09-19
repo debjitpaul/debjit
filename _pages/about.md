@@ -17,7 +17,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <font size="4">
-<b>I am in the academic and industry job market. If you think my background can be a good fit, I’d be happy to discuss it!</b>
+<b>I am in the academic and industry job market. </b> <br />
+
+
 
 Hi there! I'm a Postdoctoral Researcher working with 
                           <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a>,
