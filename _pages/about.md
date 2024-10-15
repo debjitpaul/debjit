@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <font size="4">
-<b>I’m in the academic and industry research job market! Please reach out if you know of opportunities. </b> <br />
+<b>I’m on the academic and industry research job market! Please reach out if you know of opportunities. </b> <br />
 
 
 
