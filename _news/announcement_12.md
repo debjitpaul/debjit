@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Talk at Microsoft Research, India.
+Talk at Microsoft Research (MSR), Bangalore, India.
